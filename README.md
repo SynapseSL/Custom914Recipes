@@ -1,3 +1,6 @@
+# WARNING
+This Plugin is currently obsolte and won't work
+
 # Custom914Recipes
 This Plugin allows Hoster to configure SCP-914 and even use the IDs of Custom Items so that you can get a [Tranquilizer](https://github.com/SynapseSL/MoreWeapons) in 914 or other Items
 
